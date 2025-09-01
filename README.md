@@ -40,7 +40,7 @@ Sistema de processamento de tarefas em background com API REST, workers assíncr
       "department": "Vendas",
       "reportType": "Diário"
     },
-    "typeTask": 0  // 0 ou 1 para definir o tipo da tarefa (SendEmail, GenerateReport)
+    "typeTask": 0  | 0 ou 1 para definir o tipo da tarefa (SendEmail, GenerateReport)
   }
 }
 ```
