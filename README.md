@@ -43,6 +43,7 @@ Sistema de processamento de tarefas em background com API REST, workers assíncr
     "typeTask": 0  // 0 ou 1 para definir o tipo da tarefa (SendEmail, GenerateReport)
   }
 }
+```
 
 
 - GET | localhost:7293/api/tasks/{id}
